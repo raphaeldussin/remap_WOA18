@@ -2,10 +2,10 @@ name: woa18remap
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.9
   - dask
-  - esmf=8.0.1=mpi_openmpi_hda7c4e6_1
-  - esmpy=8.0.1=mpi_openmpi_py38hfa3a056_2
+  - esmf
+  - esmpy
   - ipython
   - jupyterlab
   - matplotlib
@@ -16,6 +16,6 @@ dependencies:
   - pydap
   - seawater
   - xarray
-  - xesmf=0.5.3
+  - xesmf=0.7.0
   - pip:
     - git+https://github.com/raphaeldussin/VCR.git

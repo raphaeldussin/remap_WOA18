@@ -1,0 +1,3 @@
+5c5999e2bff17cce545b9b3d9998fea6  WOA18_decav_TPOTS_monthly_01.nc
+a5996fef7ac454f50e4637fd676ac815  WOA18_decav_TPOTS_monthly_35lev_01.nc
+ffeb500d522b800a1acec91d80491082  WOA18_decav_TPOTS_monthly_fulldepth_01.nc

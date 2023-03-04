@@ -6,6 +6,7 @@ dependencies:
   - dask
   - esmf
   - esmpy
+  - gsw
   - ipython
   - jupyterlab
   - matplotlib
